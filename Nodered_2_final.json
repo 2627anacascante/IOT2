@@ -1,0 +1,17 @@
+[
+    {
+        "id": "035f9135e6e27b2a",
+        "type": "catch",
+        "z": "f883caf66f623eed",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 140,
+        "y": 80,
+        "wires": [
+            [
+                "fbc0f672d63151e6"
+            ]
+        ]
+    }
+]
