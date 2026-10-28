@@ -46,7 +46,7 @@ Accés	SSH des de l’ordinador (ssh usuari@ip) i navegador web (port 1880)
 3.	El router assigna una adreça IP a la Raspberry.
 4.	Accedir a la Raspberry per SSH amb l’adreça IP assignada:
 ssh usuario@ip
-# exemple: ssh usuari@172.172.22.175
+
 2.3. Tasca 1: configurar 1-Wire a Linux i provar la sonda
 Habilitar la interfície 1-Wire
 La interfície 1-Wire s’habilita amb l’eina de configuració de la Raspberry (Interface Options, 1-Wire) i es reinicia la placa:
